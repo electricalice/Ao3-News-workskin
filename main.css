@@ -1,0 +1,133 @@
+.article-box h1 {
+  border-bottom: 1px #eeeeee solid;
+}
+
+img {
+  max-width: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.article-box {
+  max-width: 75%;
+  color: #555555;
+  padding: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.article-box p {
+  margin: 0px;
+  padding: 0px;
+  line-height: 1;
+}
+
+.article-box h1 {
+  font-family: "Baskerville", "Garamond", "Hoefler Text", "EB Garamond", "Adobe Garamond", "Palatino", serif;
+  font-size: 4.2em;
+  text-transform: capitalize;
+  font-variant: small-caps;
+  font-weight: 100;
+  font-style: italic;
+  color: #999999;
+  margin-bottom: 30px;
+  margin-top: 10px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.article-box h1 .first-letter-big {
+  font-size: 1.44em;
+  margin-right: -15px;
+}
+
+.article-box h3 {
+  font-family: "Baskerville", "Garamond", "Hoefler Text", "EB Garamond", "Adobe Garamond", "Palatino", serif;
+  text-align: justify;
+  font-size: 2.16em;
+  font-style: italic;
+  font-weight: 100;
+  margin-top: 20px;
+  color: #555555;
+}
+
+.article-box .article-menu {
+  width: 100%;
+  position: relative;
+}
+
+.article-box .article-menu .pic-author {
+  display: inline-block;
+  width: 50px;
+}
+
+.article-box .article-menu .pic-author img {
+  border-radius: 50%;
+  width: 50px;
+}
+
+.article-box .article-menu .author-info {
+  margin-left: 15px;
+  height: 50px;
+  padding-top: 15px;
+  position: absolute;
+  display: inline-block;
+  width: 80%;
+}
+
+.article-box .article-menu .author-info span {
+  display: block;
+}
+
+.article-box .article-menu .author-info p {
+  text-transform: uppercase;
+  font-family: "verdana", sans-serif;
+  font-size: 0.6em;
+  color: #999999;
+  line-height: 0.7em;
+}
+
+.article-box .article-menu .social-icons {
+  display: inline-block;
+  position: absolute;
+  width: 100px;
+  padding: 0px;
+  padding-top: 15px;
+  right: 10px;
+  text-align: right;
+}
+
+.article-box .article-menu .social-icons p {
+  line-height: 0;
+}
+
+.article-box .article-menu .social-icons img {
+  width: 100px;
+  height: auto;
+}
+
+.article-box .article {
+  padding-top: 20px;
+}
+
+.article-box .article p {
+  font-family: "verdana", sans-serif;
+  text-align: justify;
+  font-size: 0.84em;
+  line-height: 1.8em;
+}
+
+.article-box .article p i {
+  font-style: italic;
+}
+
+.article-box .article p b {
+  font-style: bold;
+}
+
+/*# sourceMappingURL=main.css.map */
