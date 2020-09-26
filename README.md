@@ -1,4 +1,6 @@
-Live example and tutorial for a news article extract that include website header, fake social media buttons, title and author of the article for you Ao3 fanfics.
+Live example and tutorial for a news article extract that include website header, fake social media buttons, title and author of the article for you Ao3 fanfics. 
+
+[Live Example here](https://archiveofourown.org/works/21974437)
 
 It is quite easy to achieve. It requires 2 parts: HTML code and a workskin in css. 
 
@@ -15,7 +17,7 @@ This is easy don't worry. Ao3 makes it really fast.
 Now your workskin is set and if you want you can use it for multiple fanfic. You don't need to set it up multiple times!
 **How to modify the article to your needs**
 * The first thing to do should be to open your ao3 work and find the option **"Select Work Skin"** and find in the dropdown menu the workskin you just saved.
-* Now go edit your fic (or fic chapter) and *copy paste  * [this code](https://github.com/electricalice/Ao3-News-workskin/blob/master/article-code.html)  where you want to put the article
+* Now go edit your fic (or fic chapter) and **copy paste** [this code](https://github.com/electricalice/Ao3-News-workskin/blob/master/article-code.html)  where you want to put the article
 * Modifying should be fairly self-explanatory because I put comments on pretty much everything.
 * If you want to remove any part of the article (newspaper logo, title, image of the author etc) **make sure to delete the part that is between the beginning and the end** of that part.
 	* I made sure to mark all the parts, so if you want to remove the pic of the author you remove everything that's between `<!--Pic Autor-->` and `<!--End pic author-->`
